@@ -1,0 +1,46 @@
+#searchContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+#searchContainer form {
+    border: 1px black solid;
+    width: 200px;
+    margin: 10px auto;
+}
+
+#searchContainer input {
+    padding: 5px;
+    border: none;
+}
+
+#searchContainer input:focus {
+    outline: none;
+}
+
+#searchContainer .icon {
+    padding: 5px;
+}
+
+#searchContainer li {
+    text-align: left;
+}
+
+#searchContainer li:hover {
+    background-color: gainsboro;
+    cursor: pointer;
+}
+
+.searchGroup {
+    display: flex;
+    align-items: center;
+    height: 28px;
+}
+
+.searchGroup a {
+    height: 28px;
+}
+
+.fullList {
+    text-align: left;
+}

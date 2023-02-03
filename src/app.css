@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    background-color: #C18845;
+}
+
+.displayFlexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.displayNone {
+    display: none;
+}
+
+ul {
+    padding: 0;
+}
